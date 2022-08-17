@@ -1,2 +1,1 @@
-# Spotify-NLP-lyrics
-Using Natural Language Processing to analyze explicit content in song lyrics
+# Analyzing Offensive Language in Music Using Machine Learning
