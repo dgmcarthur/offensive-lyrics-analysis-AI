@@ -48,3 +48,43 @@ A lot more went into the research process than is shown on this page, but I want
 Going forward, continued research in this area of offensive language has immense benefits that spread beyond music. While I employed a preexisting language library for the current analysis, another language classification system can be designed that is more tailored for song lyrics. Despite that, I may continue to run with this system and design an application that can give a line-by-line analysis of a given song to indicate where exactly the most and least offensive parts lie. Broadly speaking, there is a lot that can be made from this starting point—be it applications for music or research in another area of Natural Language Processing.
 
 ## References
+Below is a list of all the resources I used to aid my research.
+### Data and Datasets
+* https://www.kaggle.com/datasets/imuhammad/audio-features-and-lyrics-of-spotify-songs
+* https://michaeljohns.github.io/lyrics-lab
+* https://github.com/micbuffa/WasabiDataset
+* http://millionsongdataset.com/
+
+### Offensive language and AI
+* https://github.com/rominf/profanity-filter
+* https://pypi.org/project/profanity-filter
+* https://medium.com/@tanyufei0514/nlp-detecting-explicit-content-in-music-lyrics-7cd0450779e5
+* https://towardsdatascience.com/building-a-better-profanity-detection-library-with-scikit-learn-3638b2f2c4c2
+* https://gitlab.com/dimitrios/alt-profanity-check
+* https://www.textrics.ai/solutions/offensive-language-detection
+* https://github.com/t-davidson/hate-speech-and-offensive-language
+* https://www.surgehq.ai/blog/the-obscenity-list-surge
+* https://www.wired.com/story/ai-list-dirty-naughty-obscene-bad-words/
+* https://imusician.pro/en/support/faqs/article/what-is-considered-as-explicit-content
+* https://www.scientificamerican.com/article/can-ai-identify-toxic-online-content/
+* https://www.semanticscholar.org/paper/An-Analysis-of-Profanity-in-English-Lyrics-Amdan-Shaari/91c4d64f5b80c226d3f59c90480f01ea1bf094b1
+* http://www.ijstr.org/final-print/feb2020/and-I-Swear-Profanity-In-Pop-Music-Lyrics-On-The-American-Billboard-Charts-2009-2018-And-The-Effect-On-Youtube-Popularity.pdf
+* [Misogyny in Rap Music: A Content Analysis of Prevalence and Meanings](https://webfiles.uci.edu/ckubrin/Misogyny%20in%20Rap%20Music.pdf?uniq=fn1t7r)
+* [Undressing the Words: Prevalence of Profanity, Misogyny, Violence, and Gender Role References in Popular Music from 2006-2016](https://www.researchgate.net/publication/304538918_Undressing_the_Words_Prevalence_of_Profanity_Misogyny_Violence_and_Gender_Role_References_in_Popular_Music)
+* [Explicit Content Detection in Music Lyrics Using Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8367165&tag=1)
+* [A Study of Profanity Effect in Sentiment Analysis on Natural Language Processing Using ANN](https://journals.riverpublishers.com/index.php/JWE/article/view/12727)
+* [Neural Models for Offensive Language Detection](https://arxiv.org/pdf/2106.14609.pdf)
+* [Explicit song lyrics detection with subword-enriched word embeddings](https://www.sciencedirect.com/science/article/abs/pii/S095741742030573X)
+
+### Python NLP programs
+* https://towardsdatascience.com/real-time-sentiment-analysis-on-social-media-with-open-source-tools-f864ca239afe
+* https://towardsdatascience.com/become-a-lyrical-genius-4362e7710e43
+* https://www.cio.com/article/189218/what-is-sentiment-analysis-using-nlp-and-ml-to-extract-meaning.html
+* https://spacy.io/
+* https://conversationai.github.io/
+* https://www.datacamp.com/tutorial/R-nlp-machine-learning
+* https://towardsdatascience.com/topic-modelling-in-python-with-spacy-and-gensim-dc8f7748bdbf
+* https://towardsdatascience.com/how-to-analyze-emotions-and-words-of-the-lyrics-from-your-favorite-music-artist-bbca10411283
+* [Using machine learning analysis to interpret the relationship between music emotion and lyric features](https://peerj.com/articles/cs-785/)
+* [Lyrical Analysis Using Machine Learning Algorithm](https://www.irjet.net/archives/V5/i4/IRJET-V5I4578.pdf)
+* [Deep learning techniques for rating prediction: a survey of the state-of-the-art](https://link.springer.com/article/10.1007/s10462-020-09892-9)
